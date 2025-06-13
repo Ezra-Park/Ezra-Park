@@ -58,7 +58,7 @@ Here's a selection of my repositories showcasing my practical skills and learnin
 
 * **[Link to your best TryHackMe/CTF write-up Repo Name]** - [Brief description: e.g., "Detailed walkthrough of a SOC Analyst challenge, focusing on alert triage and digital forensics."]
 * **[Link to your Home Lab Documentation Repo Name]** - [Brief description: e.g., "Documentation of my home lab setup with an ELK stack for log analysis and security monitoring."]
-* **[Link to your Python/Scripting project Repo Name]** - [Brief description: e.g., "Simple Python script for automated network device vulnerability checks."]
+* **[Python IP Allow List Updater](https://github.com/Ezra-Park/Python-IP-AllowList-Updater)** - Automates the removal of specified IP addresses from a text-based network allow list using Python.
 * **[Link to your Volunteer Experience Case Study Repo Name]** - [Brief description: e.g., "Case study on implementing security controls and awareness training for a small business."]
 
 *(Remember to update these links once you create the repos!)*
@@ -75,7 +75,7 @@ Here's a selection of my repositories showcasing my practical skills and learnin
 
 ### 🤝 Connect With Me
 
-* **LinkedIn:** [Your LinkedIn Profile URL]
+* **LinkedIn:** (www.linkedin.com/in/ezra-park-779325330)
 * **Email:** [Your Professional Email Address]
 
 ---

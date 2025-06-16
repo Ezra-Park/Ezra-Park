@@ -67,9 +67,9 @@ Here's a selection of my repositories showcasing my practical skills and learnin
 
 ### 🌱 What I'm Currently Learning / Working On
 
-* Deepening my understanding of cloud security (AWS/Azure fundamentals).
+* Deepening my understanding of cloud security (AWS fundamentals).
 * Exploring advanced threat hunting techniques and YARA rule development.
-* Building out a more complex home lab environment for Purple Team exercises.
+* Building out a home lab environment for Purple Team exercises.
 
 ---
 

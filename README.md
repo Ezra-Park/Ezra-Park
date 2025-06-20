@@ -1,11 +1,11 @@
 <div align="center">
-  <h1>Hi there, I'm Ezra Park! 👋</h1>
+  <h1>Hi there, I'm Ezra Park!</h1>
   <p>Security+ certified aspiring cybersecurity professional | Passionate about incident response, threat intelligence, and defensive security. I'm actively building hands-on skills in SIEM, forensics, and network analysis.</p>
 </div>
 
 ---
 
-### 🚀 About Me
+### About Me
 
 I'm a dedicated and highly motivated cybersecurity professional on a mission to secure digital infrastructures. My journey into cybersecurity is driven by a passion for continuous learning and a strong desire to contribute to robust defense strategies.
 
@@ -15,7 +15,7 @@ I'm currently enrolled in the B.S. Cybersecurity Management & Policy program at 
 
 ---
 
-### 🛠️ Skills & Tools
+### Skills & Tools
 
 Here are some of the key skills and tools I'm proficient in or actively learning:
 
@@ -52,7 +52,7 @@ Here are some of the key skills and tools I'm proficient in or actively learning
 
 ---
 
-### 💻 My Projects & Hands-On Labs
+### My Projects & Hands-On Labs
 
 Here's a selection of my repositories showcasing my practical skills and learning journey. Feel free to explore them!
 
@@ -66,7 +66,7 @@ Here's a selection of my repositories showcasing my practical skills and learnin
 
 ---
 
-### 🌱 What I'm Currently Learning / Working On
+### What I'm Currently Learning / Working On
 
 * Deepening my understanding of cloud security (AWS fundamentals).
 * Exploring advanced threat hunting techniques and YARA rule development.
@@ -74,7 +74,7 @@ Here's a selection of my repositories showcasing my practical skills and learnin
 
 ---
 
-### 🤝 Connect With Me
+### Connect With Me
 
 * **LinkedIn:** www.linkedin.com/in/ezra-park-779325330
 * **Email:** ezrapark.security@gmail.com

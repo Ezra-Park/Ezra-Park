@@ -57,7 +57,6 @@ Here are some of the key skills and tools I'm proficient in or actively learning
 Here's a selection of my repositories showcasing my practical skills and learning journey. Feel free to explore them!
 
 * **[TryHackMe: Boogeyman Write-up](https://github.com/Ezra-Park/TryHackMe-Boogeyman-Writeup)** - In-depth analysis of threat group Tactics, Techniques, and Procedures (TTPs) using forensics and network artifacts.
-* **[Link to your Home Lab Documentation Repo Name]** - [Brief description: e.g., "Documentation of my home lab setup with an ELK stack for log analysis and security monitoring."]
 * **[SQL Security Log Analysis](https://github.com/Ezra-Park/SQL-Security-Log-Analysis)** - Applying SQL filters to investigate security issues in log and employee data, demonstrating query mastery.
 * **[Python IP Allow List Updater](https://github.com/Ezra-Park/Python-IP-AllowList-Updater)** - Automates the removal of specified IP addresses from a text-based network allow list using Python.
 * **[Cybersecurity Community Case Studies](https://github.com/Ezra-Park/Cybersecurity-Community-CaseStudies)** - A portfolio detailing volunteer cybersecurity consulting and IT support engagements for community organizations and small businesses.
@@ -70,7 +69,6 @@ Here's a selection of my repositories showcasing my practical skills and learnin
 
 * Deepening my understanding of cloud security (AWS fundamentals).
 * Exploring advanced threat hunting techniques and YARA rule development.
-* Building out a home lab environment for Purple Team exercises.
 
 ---
 

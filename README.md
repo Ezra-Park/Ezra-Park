@@ -61,8 +61,6 @@ Here's a selection of my repositories showcasing my practical skills and learnin
 * **[Python IP Allow List Updater](https://github.com/Ezra-Park/Python-IP-AllowList-Updater)** - Automates the removal of specified IP addresses from a text-based network allow list using Python.
 * **[Cybersecurity Community Case Studies](https://github.com/Ezra-Park/Cybersecurity-Community-CaseStudies)** - A portfolio detailing volunteer cybersecurity consulting and IT support engagements for community organizations and small businesses.
 
-*(Remember to update these links once you create the repos!)*
-
 ---
 
 ### What I'm Currently Learning / Working On

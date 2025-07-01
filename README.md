@@ -72,7 +72,6 @@ Here's a selection of my repositories showcasing my practical skills and learnin
 ### Connect With Me
 
 * **LinkedIn:** www.linkedin.com/in/ezra-park-779325330
-* **Email:** ezrapark.security@gmail.com
 
 ---
 

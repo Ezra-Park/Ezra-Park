@@ -11,8 +11,6 @@ I'm a dedicated and highly motivated cybersecurity professional on a mission to 
 
 With a background in leadership and team management from my prior career, I bring strong communication, problem-solving, and risk management skills that are critical in the security landscape.
 
-I'm currently enrolled in the B.S. Cybersecurity Management & Policy program at the University of Maryland Global Campus, solidifying my theoretical knowledge while actively pursuing practical experience.
-
 ---
 
 ### Skills & Tools

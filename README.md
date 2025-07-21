@@ -1,6 +1,6 @@
 <div align="center">
   <h1>Hi there, I'm Ezra Park!</h1>
-  <p>Security+ certified aspiring cybersecurity professional | Passionate about incident response, threat intelligence, and defensive security. I'm actively building hands-on skills in SIEM, forensics, and network analysis.</p>
+  <p>Security+ certified aspiring cybersecurity professional | Passionate about incident response, threat intelligence, and defensive security. I'm actively building hands-on skills in SIEM, forensics, and network analysis. Feel free to explore my projects below to see my skills in action, or connect with me on LinkedIn!</p>
 </div>
 
 ---
@@ -9,7 +9,7 @@
 
 I'm a dedicated and highly motivated cybersecurity professional on a mission to secure digital infrastructures. My journey into cybersecurity is driven by a passion for continuous learning and a strong desire to contribute to robust defense strategies.
 
-With a background in leadership and team management from my prior career, I bring strong communication, problem-solving, and risk management skills that are critical in the security landscape.
+My prior career honed my **leadership and team management skills**, where I successfully guided initiatives and managed diverse teams. These experiences translate directly into my cybersecurity approach, enabling me to excel in **problem-solving, risk management, and clear communication**.
 
 ---
 
@@ -29,24 +29,16 @@ Here are some of the key skills and tools I'm proficient in or actively learning
 ![Endpoint Security](https://img.shields.io/badge/Endpoint_Security-orange?style=flat&logoColor=white)
 ![Digital Forensics](https://img.shields.io/badge/Digital_Forensics-ff69b4?style=flat&logoColor=white)
 ![Vulnerability Assessment](https://img.shields.io/badge/Vulnerability_Assessment-navy?style=flat&logoColor=white)
-![Threat Modeling](https://img.shields.io/badge/Threat_Modeling-darkblue?style=flat&logoColor=white)
-![MITRE ATT&CK](https://img.shields.io/badge/MITRE_ATT&CK-white?style=flat&logo=data:image/svg+xml;base64,PHN2ZyB3aWR0aD0iMjUiIGhlaWdodD0iMjUiIHZpZXdCb3g9IjAgMCAxMDAgMTAwIiB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciPgogIDxwYXRoIGQ9Ik01IDk1aDBuN2MtMi4yIDAtNC0yLjEtNC00Ljh2LTAuOGMwLTIuOCAxLjgtNSAzLjktNWgwLjVjMi4xIDAgMy45IDIuMiAzLjkgNWwwIDAuNmMwIDIuOC0xLjggNS0zLjkgNS4zSjV6TTEwIDk2djIuM2EzIDMgMCAwIDAgMyAzLjVsNTAuNC01MC40Yy00LjYgMi4yLTkgMi40LTEzLjggMS41LTQuNy0wLjgtOS4yLTIuOC0xMy01LjktMy44LTMtNi42LTYuNy04LjUtMTAuOGwtNC4yLTIuN2MtMi4yLTkuNi0yLjktMTkuNy0yLjItMzAuMiAwLjUtNi42IDEuNi0xMi42IDMyLjYtMTIuNiAzMC45IDAgMzEuNyA2LjEgMzIuMiAxMi42IDAuNyAxMC41IDAgMjAuNi0yLjIgMzAuMi0xLjkgNC4yLTQuNyA3LjgtOC41IDEwLjgtMy44IDMuMS04LjMgNS4xLTEzLjEgNS45LTQuOCAwLjktOS4yIDAuNi0xMy41LTEuNS02LjUtNy41LTEyLjctMTUuNy0xMi43LTE1LjcuNy02LjIgMy41LTE1LjcgMy41LTE1LjcgMTEuMyAxMS4zIDI4LjYgMTcuNiA0Ni4zIDE3LjZzMzUuMS02LjMgNDYuMy0xNy42YzAgMCAyLjgtOS41IDMuNS0xNS43IDAtMS0xLjItNC0xLjgtNi0xLjgtNS40LTQtOS02LjItMTItNi4yLTIuMyAwLTMuOCAwLjgtNC40IDEuOC0yLjUgNC4yLTQgOC44LTQgMTMuOCA1LjggMTguOCAyLjIgMzguNi01LjIgNTguMi02LjggMi43LTIuMyA1LjYtNC4yIDguNy01LjcgMy4yLTEuNiA2LjctMi42IDEwLjYtMi44IDQuMy0wLjMgOC43IDAuNyAxMy43IDMuMyAzLjggMS45IDcuMiA0LjMgOS43IDcgMy4yIDMuMyA1LjYgNi43IDcuMiAxMC43IDEuNSAzLjcgMi41IDcuOCAzIDExLjcgaDUuOHYyLjN6IiBmaWxsPSIjZjI4YjJmIi8+Cjwvc3ZnPgo=)
+![Threat Modeling](https://img.shields.io/badge/Threat_Modeling-darkblue?style=flat&logo=data:image/svg+xml;base64,PHN2ZyB3aWR0aD0iMjUiIGhlaWdodD0iMjUiIHZpZXdCb3g9IjAgMCAxMDAgMTAwIiB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciPgogIDxwYXRoIGQ9IkM1IDk1aDBuN2MtMi4yIDAtNC0yLjEtNC00Ljh2LTAuOGMwLTIuOCAxLjgtNSAzLjktNWgwLjVjMi4xIDAgMy45IDIuMiAzLjkgNWwwIDAuNmMwIDIuOC0xLjggNS0zLjkgNS4zSjV6TTEwIDk2djIuM2EzIDMgMCAwIDAgMyAzLjVsNTAuNC01MC40Yy00LjYgMi4yLTkgMi40LTEzLjggMS41LTQuNy0wLjgtOS4yLTIuOC0xMy01LjktMy44LTMtNi42LTYuNy04LjUtMTAuOGwtNC4yLTIuN2MtMi4yLTkuNi0yLjktMTkuNy0yLjItMzAuMiAwLjUtNi42IDEuNi0xMi42IDMyLjYtMTIuNiAzMC45IDAgMzEuNyA2LjEgMzIuMiAxMi42IDAuNyAxMC41IDAgMjAuNi0yLjIgMzAuMi0xLjkgNC4yLTQuNyA3LjgtOC41IDEwLjgtMy44IDMuMS04LjMgNS4xLTEzLjEgNS45LTQuOCAwLjktOS4yIDAuNi0xMy41LTEuNS02LjUtNy41LTEyLjctMTUuNy0xMi43LTE1LjcuNy02LjIgMy41LTE1LjcgMy.1LTE1LjcgMTEuMyAxMS4zIDI4LjYgMTcuNiA0Ni4zIDE3LjZzMzUuMS02LjMgNDYuMy0xNy42YzAgMCAyLjgtOS41IDMuNS0xNS43IDAtMS0xLjItNC0xLjgtNi0xLjgtNS40LTQtOS02LjItMTItNi4yLTIuMyAwLTMuOCAwLjgtNC40IDEuOC0yLjUgNC4yLTQgOC44LTQgMTMuOCA1LjggMTguOCAyLjIgMzguNi01LjIgNTguMi02LjggMi43LTIuMyA1LjYtNC4yIDguNy01LjcgMy4yLTEuNiA2LjctMi42IDEwLjYtMi44IDQuMy0wLjMgOC43IDAuNyAxMy43IDMuMyAzLjggMS45IDcuMiA0LjMgOS43IDcgMy4yIDMuMyA1LjYgNi43IDcuMiAxMC43IDEuNSAzLjcgMi41IDcuOCAzIDExLjcgaDUuOHYyLjN6IiBmaWxsPSIjZjI4YjJmIi8+Cjwvc3ZnPgo=)
 ![Cyber Kill Chain](https://img.shields.io/badge/Cyber_Kill_Chain-gray?style=flat&logoColor=white)
 ![Pyramid of Pain](https://img.shields.io/badge/Pyramid_of_Pain-lightgrey?style=flat&logoColor=white)
 
 **Tools & Technologies:**
-![Splunk](https://img.shields.io/badge/Splunk-User-orange?style=flat&logo=splunk&logoColor=white)
-![Elastic Stack](https://img.shields.io/badge/Elastic_Stack-005571?style=flat&logo=elastic&logoColor=white)
-![Wireshark](https://img.shields.io/badge/Wireshark-1679A8?style=flat&logo=wireshark&logoColor=white)
-![tcpdump](https://img.shields.io/badge/tcpdump-black?style=flat&logoColor=white)
-![Linux CLI](https://img.shields.io/badge/Linux_CLI-000?style=flat&logo=linux&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat&logo=sqlite&logoColor=white)
-![Nmap](https://img.shields.io/badge/Nmap-red?style=flat&logo=nmap&logoColor=white)
-![Metasploit](https://img.shields.io/badge/Metasploit-darkblue?style=flat&logo=metasploit&logoColor=white)
-![Sysmon](https://img.shields.io/badge/Sysmon-0078D4?style=flat&logo=windows&logoColor=white)
-![Autopsy](https://img.shields.io/badge/Autopsy-blue?style=flat&logoColor=white)
-![Volatility](https://img.shields.io/badge/Volatility-darkgreen?style=flat&logoColor=white)
+* **SIEM & Log Analysis:** ![Splunk](https://img.shields.io/badge/Splunk-User-orange?style=flat&logo=splunk&logoColor=white) ![Elastic Stack](https://img.shields.io/badge/Elastic_Stack-005571?style=flat&logo=elastic&logoColor=white) ![Sysmon](https://img.shields.io/badge/Sysmon-0078D4?style=flat&logo=windows&logoColor=white)
+* **Network Analysis:** ![Wireshark](https://img.shields.io/badge/Wireshark-1679A8?style=flat&logo=wireshark&logoColor=white) ![tcpdump](https://img.shields.io/badge/tcpdump-black?style=flat&logoColor=white)
+* **Digital Forensics:** ![Autopsy](https://img.shields.io/badge/Autopsy-blue?style=flat&logoColor=white) ![Volatility](https://img.shields.io/badge/Volatility-darkgreen?style=flat&logoColor=white)
+* **Vulnerability & Exploitation:** ![Nmap](https://img.shields.io/badge/Nmap-red?style=flat&logo=nmap&logoColor=white) ![Metasploit](https://img.shields.io/badge/Metasploit-darkblue?style=flat&logo=metasploit&logoColor=white)
+* **Scripting & OS:** ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white) ![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat&logo=sqlite&logoColor=white) ![Linux CLI](https://img.shields.io/badge/Linux_CLI-000?style=flat&logo=linux&logoColor=white)
 
 ---
 
@@ -54,16 +46,17 @@ Here are some of the key skills and tools I'm proficient in or actively learning
 
 Here's a selection of my repositories showcasing my practical skills and learning journey. Feel free to explore them!
 
-* **[TryHackMe: Boogeyman Write-up](https://github.com/Ezra-Park/TryHackMe-Boogeyman-Writeup)** - In-depth analysis of threat group Tactics, Techniques, and Procedures (TTPs) using forensics and network artifacts.
-* **[SQL Security Log Analysis](https://github.com/Ezra-Park/SQL-Security-Log-Analysis)** - Applying SQL filters to investigate security issues in log and employee data, demonstrating query mastery.
-* **[Python IP Allow List Updater](https://github.com/Ezra-Park/Python-IP-AllowList-Updater)** - Automates the removal of specified IP addresses from a text-based network allow list using Python.
-* **[Cybersecurity Community Case Studies](https://github.com/Ezra-Park/Cybersecurity-Community-CaseStudies)** - A portfolio detailing volunteer cybersecurity consulting and IT support engagements for community organizations and small businesses.
+* **[Security Analyst Workflows](https://github.com/Ezra-Park/Security-Analyst-Workflows)** - A comprehensive portfolio showcasing practical skills in alert triage, vulnerability management, security auditing, incident response analysis, and automation through detailed workflows and reports.
+* **[TryHackMe: Boogeyman Write-up](https://github.com/Ezra-Park/TryHackMe-Boogeyman-Writeup)** - In-depth analysis of threat group Tactics, Techniques, and Procedures (TTPs) using forensics and network artifacts. **Demonstrates:** Incident response methodology, digital forensics (memory/disk analysis), network traffic analysis, threat intelligence application.
+* **[Cybersecurity Community Case Studies](https://github.com/Ezra-Park/Cybersecurity-Community-CaseStudies)** - A portfolio detailing volunteer cybersecurity consulting and IT support engagements for community organizations and small businesses. **Demonstrates:** Real-world problem-solving, client communication, practical application of security principles.
 
 ---
 
 ### What I'm Currently Learning / Working On
 
-* Deepening my understanding of cloud security (AWS fundamentals).
+* Deepening my understanding of cloud security, specifically focusing on **AWS security services (e.g., IAM, Security Hub, GuardDuty)** and preparing for the AWS Certified Cloud Practitioner exam.
+* Exploring advanced **SIEM use cases** for proactive threat hunting and developing custom correlation rules.
+* Building a personal **home lab** to simulate various attack scenarios and practice defensive measures (e.g., setting up a Splunk instance, deploying vulnerable VMs).
 
 ---
 

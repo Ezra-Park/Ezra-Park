@@ -1,6 +1,5 @@
 <div align="center">
   <h1>Hi there, I'm Ezra Park!</h1>
-  <p>Security+ certified aspiring cybersecurity professional | Passionate about incident response, threat intelligence, and defensive security. I'm actively building hands-on skills in SIEM, forensics, and network analysis. Feel free to explore my projects below to see my skills in action, or connect with me on LinkedIn!</p>
 </div>
 
 ---
@@ -10,8 +9,6 @@
 I'm a dedicated and highly motivated cybersecurity professional on a mission to secure digital infrastructures. My journey into cybersecurity is driven by a passion for continuous learning and a strong desire to contribute to robust defense strategies.
 
 My prior career honed my **leadership and team management skills**, where I successfully guided initiatives and managed diverse teams. These experiences translate directly into my cybersecurity approach, enabling me to excel in **problem-solving, risk management, and clear communication**.
-
----
 
 ### Skills & Tools
 
@@ -40,8 +37,6 @@ Here are some of the key skills and tools I'm proficient in or actively learning
 * **Vulnerability & Exploitation:** ![Nmap](https://img.shields.io/badge/Nmap-red?style=flat&logo=nmap&logoColor=white) ![Metasploit](https://img.shields.io/badge/Metasploit-darkblue?style=flat&logo=metasploit&logoColor=white)
 * **Scripting & OS:** ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white) ![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat&logo=sqlite&logoColor=white) ![Linux CLI](https://img.shields.io/badge/Linux_CLI-000?style=flat&logo=linux&logoColor=white)
 
----
-
 ### My Projects & Hands-On Labs
 
 Here's a selection of my repositories showcasing my practical skills and learning journey. Feel free to explore them!
@@ -50,21 +45,15 @@ Here's a selection of my repositories showcasing my practical skills and learnin
 * **[TryHackMe: Boogeyman Write-up](https://github.com/Ezra-Park/TryHackMe-Boogeyman-Writeup)** - In-depth analysis of threat group Tactics, Techniques, and Procedures (TTPs) using forensics and network artifacts. **Demonstrates:** Incident response methodology, digital forensics (memory/disk analysis), network traffic analysis, threat intelligence application.
 * **[Cybersecurity Community Case Studies](https://github.com/Ezra-Park/Cybersecurity-Community-CaseStudies)** - A portfolio detailing volunteer cybersecurity consulting and IT support engagements for community organizations and small businesses. **Demonstrates:** Real-world problem-solving, client communication, practical application of security principles.
 
----
-
 ### What I'm Currently Learning / Working On
 
 * Deepening my understanding of cloud security, specifically focusing on **AWS security services (e.g., IAM, Security Hub, GuardDuty)** and preparing for the AWS Certified Cloud Practitioner exam.
 * Exploring advanced **SIEM use cases** for proactive threat hunting and developing custom correlation rules.
 * Building a personal **home lab** to simulate various attack scenarios and practice defensive measures (e.g., setting up a Splunk instance, deploying vulnerable VMs).
 
----
-
 ### Connect With Me
 
 * **LinkedIn:** www.linkedin.com/in/ezra-park-779325330
-
----
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Ezra-Park&show_icons=true&theme=radical&hide_border=true&count_private=true" alt="Ezra's GitHub Stats" />

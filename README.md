@@ -43,7 +43,7 @@ Here's a selection of my repositories showcasing my practical skills and learnin
 
 * **[Security Analyst Workflows](https://github.com/Ezra-Park/Security-Analyst-Workflows)** - A comprehensive portfolio showcasing practical skills in alert triage, vulnerability management, security auditing, incident response analysis, and automation through detailed workflows and reports.
 * **[TryHackMe: Boogeyman Write-up](https://github.com/Ezra-Park/TryHackMe-Boogeyman-Writeup)** - In-depth analysis of threat group Tactics, Techniques, and Procedures (TTPs) using forensics and network artifacts. **Demonstrates:** Incident response methodology, digital forensics (memory/disk analysis), network traffic analysis, threat intelligence application.
-* **[Cybersecurity Community Case Studies](https://github.com/Ezra-Park/Cybersecurity-Community-CaseStudies)** - A portfolio detailing volunteer cybersecurity consulting and IT support engagements for community organizations and small businesses. **Demonstrates:** Real-world problem-solving, client communication, practical application of security principles.
+* **[Cybersecurity Community Cases](https://github.com/Ezra-Park/Cybersecurity-Community-Cases)** - A portfolio detailing volunteer cybersecurity consulting and IT support engagements for community organizations and small businesses. **Demonstrates:** Real-world problem-solving, client communication, practical application of security principles.
 
 ### What I'm Currently Learning / Working On
 

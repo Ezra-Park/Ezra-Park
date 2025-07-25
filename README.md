@@ -47,7 +47,7 @@ Here's a selection of my repositories showcasing my practical skills and learnin
 
 ### What I'm Currently Learning / Working On
 
-* Deepening my understanding of cloud security, specifically focusing on **AWS security services (e.g., IAM, Security Hub, GuardDuty)** and preparing for the AWS Certified Cloud Practitioner exam.
+* Deepening my understanding of cloud security, specifically focusing on **AWS**.
 * Exploring advanced **SIEM use cases** for proactive threat hunting and developing custom correlation rules.
 * Building a personal **home lab** to simulate various attack scenarios and practice defensive measures (e.g., setting up a Splunk instance, deploying vulnerable VMs).
 
